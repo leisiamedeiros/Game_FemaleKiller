@@ -1,5 +1,7 @@
-#readme
+#Readme
 
 Jogo desenvolvido em ruby
 
-Para executar, È necessario a instalaÁ„o do ruby em sua maquina: https://www.ruby-lang.org/pt/documentation/installation/#rubyinstaller, --assim como a instalaÁ„o da biblioteca GOSU: https://www.libgosu.org/.
+Para executar, √© necessario a instala√ß√£o do ruby em sua maquina: https://www.ruby-lang.org/pt/documentation/installation/#rubyinstaller, --assim como a instala√ß√£o da biblioteca GOSU: https://www.libgosu.org/.
+
+Pelo terminal de comando, va at√© a pasta que o jogo est√° localizado e insira : "ruby principal.rb" para executar.
