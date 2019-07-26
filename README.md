@@ -1,6 +1,4 @@
-# Readme
-
-### Game Female Killer 
+# Game Female Killer
 Game developed in Ruby using Gosu library.
 
 [![Game Play](http://img.youtube.com/vi/uWbRdRhJhNY/0.jpg)](https://www.youtube.com/watch?v=uWbRdRhJhNY "Game Play")
